@@ -1,5 +1,6 @@
 # Netflix-Clone
 🎬 Netflix Clone - A Responsive UI using HTML &amp; CSS 
+
 📜 Project Overview
 This project is a Netflix-inspired landing page built using only HTML and CSS. It replicates the look and feel of Netflix's homepage, focusing on a clean UI, responsive design, and modern styling techniques.
 
